@@ -1,4 +1,4 @@
-<h2>Desenvolvedor Back-End & Analista de Dados<h2>
+<h2>Desenvolvedor Back-End & Front-End<h2>
 
 <!-- Imagens de Tecnologias -->
 <h3>Principais Tecnologias ⚡</h3>
