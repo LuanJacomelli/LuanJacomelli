@@ -45,7 +45,7 @@
 
 
 <h2>Olá, mundo 👋</h2>
-<p>Meu nome é <strong>Luan Vitor Silva Jacomelli</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados</p>
+<p>Meu nome é <strong>Luan Vitor Silva Jacomelli</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados.</p>
 
 <p>Meu objetivo é me tornar um excelente desenvolvedor back-end, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!</p>
 
@@ -61,7 +61,7 @@
 
 <h3>Acadêmico 👨‍💻</h3>
 <ul>
-  <li>Técnologo em Gestão da Tecnologia da Informação | PUC - Campinas 2023 - 2025. Concluído.</li>
+  <li>Técnologo em Gestão da Tecnologia da Informação | PUC - Campinas 2023 - 2025. Cursando</li>
 </ul>
 
 <h3>Experiências 💻</h3>
