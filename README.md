@@ -9,10 +9,6 @@
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" style="width: 40px; height: 40px;">
   <!-- AWS -->
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="width: 40px; height: 40px;">
-  <!-- MongoDB -->
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px;">
-  <!-- Docker -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="width: 40px; height: 40px;">
   <!-- MySQL -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="width: 40px; height: 40px;">
   <!-- Oracle -->
@@ -21,18 +17,10 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" style="width: 40px; height: 40px;">
   <!-- CSS3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" style="width: 40px; height: 40px;">
-  <!-- Figma -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" style="width: 40px; height: 40px;">
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" style="width: 40px; height: 40px;">
   <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="width: 40px; height: 40px;">
-  <!-- Jenkins -->
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" style="width: 40px; height: 40px;">
-  <!-- Kotlin -->
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" style="width: 40px; height: 40px;">
-  <!-- Nginx -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" style="width: 40px; height: 40px;">
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" style="width: 40px; height: 40px;">
   <!-- PostgreSQL -->
