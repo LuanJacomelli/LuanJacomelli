@@ -7,8 +7,6 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="width: 40px; height: 40px;">
   <!-- Spring Boot -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" style="width: 40px; height: 40px;">
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" style="width: 40px; height: 40px;">
   <!-- MySQL -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="width: 40px; height: 40px;">
   <!-- Oracle -->
@@ -73,8 +71,6 @@
   <li>Javascript ES6</li>
   <li>Node.js</li>
   <li>Angular</li>
-  <li>Docker</li>
-  <li>Docker-compose</li>
   <li>Bancos de dados Relacionais: PostgreSQL, Oracle 11g e 12c, Microsoft SQL Server, MySQL</li>
   <li>Bancos de dados NoSQL: MongoDB</li>
 </ul>
