@@ -31,7 +31,7 @@
 
 
 <h2>Olá, mundo 👋</h2>
-<p>Meu nome é <strong>Luan Vitor Silva Jacomelli</strong>, sou um Desenvolvedor Back-End e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados.</p>
+<p>Meu nome é <strong>Luan Vitor Silva Jacomelli</strong>, sou um Desenvolvedor Back-End e Front-End, sou apaixonado por desenvolvimento Back-End, Front-End, API REST, microsserviços, análise de dados.</p>
 
 <p>Meu objetivo é me tornar um excelente desenvolvedor back-end, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!</p>
 
@@ -39,6 +39,7 @@
 <ul>
   <li>Desenvolvimento Back-End</li>
   <li>Criação de API REST</li>
+  <li>Desenvolvimento Front End</li>
   <li>Arquitetura REST e de microsserviços</li>
   <li>Análise de dados</li>
   <li>Extração, transformação e visualização de dados</li>
