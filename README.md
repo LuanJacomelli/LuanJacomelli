@@ -48,11 +48,11 @@
 
 <h3>Acadêmico 👨‍💻</h3>
 <ul>
-  <li>Técnologo em Gestão da Tecnologia da Informação | PUC - Campinas 2023 - 2025. Cursando</li>
+  <li>Técnologo em Gestão da Tecnologia da Informação | PUC - Campinas 2023 - 2025. Finalizado</li>
 </ul>
 
 <h3>Experiências 💻</h3>
-<p><strong>1 ano de experiência no mercado de tecnologia</strong></p>
+<p><strong>2 anos de experiência no mercado de tecnologia</strong></p>
 
 <ul>
   <li><strong>Atualmente:</strong> Atuando na empresa Galleriabank como Desenvolvedor FullStack, trabalhando com as seguintes tecnologias:</li>
